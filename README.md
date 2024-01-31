@@ -3,7 +3,7 @@
 ## My interests
  - Objective oriented programming (No Java)
  - OpenGL (sometimes)
- - cross-platform applications
+ - Cross-platform applications
 
 ## Programming Languages
 
