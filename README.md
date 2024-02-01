@@ -13,6 +13,3 @@
 <a href="https://www.rust-lang.org">
   <img src="img/rust.png" alt="rust" width="30"/>
 </a>
-
-## Other Stuff
-[My Blog](https://bakoyannis.github.io/)
