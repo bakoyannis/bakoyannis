@@ -15,4 +15,4 @@
 </a>
 
 ## Other Stuff
-[My Blog]()
+[My Blog](https://bakoyannis.github.io/)
