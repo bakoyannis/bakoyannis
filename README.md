@@ -1,14 +1,10 @@
-# Hi there 👋
-
-## My interests
- - Objective oriented programming
- - Cross-platform applications
-
-## Programming Languages
-
-<a href="https://isocpp.org/">
-  <img src="img/cpp.png" alt="cpp" width="30"/>
-</a>
-<a href="https://www.rust-lang.org">
-  <img src="img/rust.png" alt="rust" width="30"/>
-</a>
+```cpp
+class Profile {
+private:
+	string interests = "Performance, Cross platform applications, discovering new stuff";
+public:
+	string name = "Thomas";
+	string prog_languages = "C++, Python, Rust";
+	string blog = "bakoyannis.github.io";
+};
+```
