@@ -9,7 +9,7 @@
 ## Programming Languages
 
 <a href="https://isocpp.org/">
-  <img src="cpp_logo.png" alt="cpp" width="30"/>
+  <img src="images/cpp_logo.png" alt="cpp" width="30"/>
 </a>
 <a href="https://www.python.org/">
   <img src="images/python_logo.png" alt="python" width="30"/>
